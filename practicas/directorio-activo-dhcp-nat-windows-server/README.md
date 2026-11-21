@@ -1,4 +1,4 @@
-# Directorio Activo, dhcp, nat en Windows Server
+# Active Directory, DHCP y NAT: dominio, usuarios y clientes
 
 Al iniciar Windows Server, vamos a “Administrar” y “agregar roles y
 caractersiticas”
