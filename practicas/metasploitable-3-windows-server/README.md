@@ -1,5 +1,3 @@
-**Arnaldo Cabeza**
-
 **1. Enumera los puertos y servicios que tiene el servidor
 Metasploitable 3 Windows server.**
 
