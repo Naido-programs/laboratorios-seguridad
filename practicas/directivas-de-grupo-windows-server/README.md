@@ -1,4 +1,4 @@
-**Aplicar directivas al grupo del dominio**
+# Aplicar directivas al grupo del dominio
 
 Restringir a los usuarios del grupo informática lo siguiente:
 
