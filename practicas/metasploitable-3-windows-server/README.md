@@ -37,7 +37,7 @@ metasploitable “search ssh enumusers” para localizar el modulo
 
 <img src="./media/image4.png" style="width:7.2684in;height:2.33892in" />
 
-Seleccionamos el modulo con numero 1 “cerberus_sftp_enumusers” y
+Seleccionamos el modulo con numero 1 “ssh_enumusers” y
 mostramos las opciones.
 
 <img src="./media/image5.png"
