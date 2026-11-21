@@ -44,7 +44,7 @@ incidencias encontradas durante el proceso.
    Detección de vulnerabilidades y acceso a máquinas vulnerables.
 
 ## Entorno de laboratorio
-- Anfitrión: [tu sistema, p. ej. Ubuntu]
+- Anfitrión: [Ubuntu, Windows]
 - Virtualización: VirtualBox con red interna y red NAT
 - Máquinas: Windows Server, Windows (cliente), Kali Linux,
   Metasploitable 2 y 3
