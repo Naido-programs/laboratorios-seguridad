@@ -1,4 +1,4 @@
-# Instalar Windows Server
+# Instalación y configuración inicial de Windows Server
 
 Iniciamos la maquina de virtualBox e iniciamos la instalación
 
