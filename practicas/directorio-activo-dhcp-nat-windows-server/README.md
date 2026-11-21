@@ -1,3 +1,5 @@
+# Directorio Activo, dhcp, nat en Windows Server
+
 Al iniciar Windows Server, vamos a “Administrar” y “agregar roles y
 caractersiticas”
 
