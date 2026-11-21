@@ -1,7 +1,7 @@
 # Active Directory, DHCP y NAT: dominio, usuarios y clientes
 
 Al iniciar Windows Server, vamos a “Administrar” y “agregar roles y
-caractersiticas”
+características”
 
 <img src="./media/image1.png" style="width:5.32673in;height:1.675in" />
 
@@ -23,7 +23,7 @@ Seleccionamos el servidor que estamos usando
 <img src="./media/image5.png" style="width:2.97469in;height:2.11849in"
 alt="Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónico El contenido generado por IA puede ser incorrecto." />
 
-Agregamos las caracteristicas
+Agregamos las características
 
 <img src="./media/image6.png"
 style="width:2.96959in;height:2.12335in" />
@@ -91,7 +91,7 @@ Iniciamos sesión como administrador de REDINTERNA
 <img src="./media/image21.jpeg" style="width:2.93069in;height:1.4753in"
 alt="Imagen que contiene viendo, monitor, frente, pantalla El contenido generado por IA puede ser incorrecto." />
 
-Al reinicar podemos ver que tenemos el panel de Active Directory (AD DS)
+Al reiniciar podemos ver que tenemos el panel de Active Directory (AD DS)
 
 <img src="./media/image22.png" style="width:4.42613in;height:2.22772in"
 alt="Interfaz de usuario gráfica, Texto, Aplicación, Sitio web El contenido generado por IA puede ser incorrecto." />
@@ -111,7 +111,7 @@ En la red creada en este caso llamada “redinerna.local”
 <img src="./media/image25.png"
 style="width:2.88407in;height:2.01886in" />
 
-Con el boton derecho creamos una nueva unidad organizativa
+Con el botón derecho creamos una nueva unidad organizativa
 
 <img src="./media/image26.png"
 style="width:2.85674in;height:1.98515in" />
@@ -165,7 +165,7 @@ Creamos otros dos equipos mas
 <img src="./media/image38.png"
 style="width:3.12627in;height:2.20205in" />
 
-Configuramos DHCP, vamos a agregar caracteristicas
+Configuramos DHCP, vamos a agregar características
 
 <img src="./media/image39.png" style="width:4.71657in;height:1.4802in"
 alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
@@ -189,7 +189,7 @@ Esperamos a que finalice la instalación
 <img src="./media/image44.png"
 style="width:2.97475in;height:2.10358in" />
 
-Completamos la configutación DHCP
+Completamos la configuración DHCP
 
 <img src="./media/image45.png" style="width:5.43069in;height:1.72992in"
 alt="Interfaz de usuario gráfica, Texto, Aplicación El contenido generado por IA puede ser incorrecto." />
@@ -211,7 +211,7 @@ Entramos a Herramientas y DHCP
 <img src="./media/image49.png" style="width:4.56457in;height:2.29779in"
 alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
 
-Agregamos un ambito nuevo
+Agregamos un ámbito nuevo
 
 <img src="./media/image50.png"
 style="width:3.55913in;height:2.05924in" />
@@ -253,8 +253,8 @@ Finalizamos la configuración
 <img src="./media/image62.png"
 style="width:2.76205in;height:1.84136in" />
 
-Verificamos que el ambito de red interna este activo y si entramos a
-concesiones deberia estar vacia si no hay equipos activos en la red
+Verificamos que el ámbito de red interna este activo y si entramos a
+concesiones debería estar vacía si no hay equipos activos en la red
 
 <img src="./media/image63.png"
 style="width:3.54907in;height:2.07399in" />
@@ -285,11 +285,11 @@ alt="Captura de pantalla de un celular El contenido generado por IA puede ser in
 <img src="./media/image70.png" style="width:1.55895in;height:1.83118in"
 alt="Captura de pantalla de un celular El contenido generado por IA puede ser incorrecto." />
 
-Al reiniciar tendremos la opción de otro usuario y a traves de esta
+Al reiniciar tendremos la opción de otro usuario y a través de esta
 cuenta podremos iniciar una sesión con el nombre de usuario de los que
 creamos en el servido en el Directorio Activo, usamos “usuario1” y la
 contraseña asignada. Y observamos que se nos creará unas sesión que
-tomoará un tiempo en construirse y al final tendremos el escritorio
+tomará un tiempo en construirse y al final tendremos el escritorio
 normal de Windows.
 
 <img src="./media/image71.jpeg" style="width:2.5495in;height:2.12292in"
@@ -320,7 +320,7 @@ style="width:2.92571in;height:2.12834in" />
 <img src="./media/image77.png" style="width:2.96885in;height:2.09169in"
 alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
 
-Continuamos y agregamos las caracteristicas
+Continuamos y agregamos las características
 
 <img src="./media/image78.png"
 style="width:2.95637in;height:2.0854in" />
