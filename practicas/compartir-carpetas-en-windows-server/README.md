@@ -1,4 +1,4 @@
-Compartir carpetas en Windows Server
+# Compartir carpetas en Windows Server
 
 En Windows Server 2019, se pide:
 
