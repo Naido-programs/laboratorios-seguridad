@@ -106,7 +106,7 @@ Nos mostrará una nueva ventana
 <img src="./media/image24.png"
 style="width:2.91584in;height:2.03778in" />
 
-En la red creada en este caso llamada “redinerna.local”
+En la red creada en este caso llamada “redinterna.local”
 
 <img src="./media/image25.png"
 style="width:2.88407in;height:2.01886in" />
