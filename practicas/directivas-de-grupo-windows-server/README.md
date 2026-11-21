@@ -4,88 +4,86 @@ Restringir a los usuarios del grupo informática lo siguiente:
 
 1.  Acceder al panel de control
 
-> Vamos a Herramientas – administración de directivas de grupo
->
-> <img src="./media/image1.png" style="width:4.424in;height:2.79159in" />
->
-> Seleccionamos “objetos de directiva de grupo” y creamos una nueva
-> objeto y le damos un nombre
->
-> <img src="./media/image2.png" style="width:3.86073in;height:2.696in"
-> alt="Interfaz de usuario gráfica El contenido generado por IA puede ser incorrecto." />
->
-> <img src="./media/image3.png" style="width:3.864in;height:2.72749in"
-> alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
->
-> Editamos el nuevo objeto de directiva de grupo
->
-> <img src="./media/image4.png" style="width:4.01847in;height:2.24in" />
->
-> Vamos a editar la configuración de ususario
->
-> <img src="./media/image5.png" style="width:4.00694in;height:1.48in"
-> alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
->
-> Directivas
->
-> <img src="./media/image6.png" style="width:4.03681in;height:1.488in" />
->
-> Plantillas Administrativas
->
-> <img src="./media/image7.png" style="width:3.99132in;height:1.256in" />
->
-> Panel de control
->
-> <img src="./media/image8.png" style="width:4.01667in;height:1.568in"
-> alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
->
-> Editamos la opcion de “prohibir el acceso a configuración de PC y
-> Panel de Control”
->
-> <img src="./media/image9.png" style="width:5.2403in;height:2.776in" />
->
-> Habilitamos y aplicamos
->
-> <img src="./media/image10.png" style="width:3.49785in;height:3.336in" />
+Vamos a Herramientas – administración de directivas de grupo
+
+<img src="./media/image1.png" style="width:4.424in;height:2.79159in" />
+
+Seleccionamos “objetos de directiva de grupo” y creamos una nueva
+objeto y le damos un nombre
+
+<img src="./media/image2.png" style="width:3.86073in;height:2.696in" alt="Interfaz de usuario gráfica El contenido generado por IA puede ser incorrecto." />
+
+<img src="./media/image3.png" style="width:3.864in;height:2.72749in" alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
+
+Editamos el nuevo objeto de directiva de grupo
+
+<img src="./media/image4.png" style="width:4.01847in;height:2.24in" />
+
+Vamos a editar la configuración de ususario
+
+<img src="./media/image5.png" style="width:4.00694in;height:1.48in"
+alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
+
+Directivas
+
+<img src="./media/image6.png" style="width:4.03681in;height:1.488in" />
+
+Plantillas Administrativas
+
+<img src="./media/image7.png" style="width:3.99132in;height:1.256in" />
+
+Panel de control
+
+<img src="./media/image8.png" style="width:4.01667in;height:1.568in"
+ alt="Interfaz de usuario gráfica, Aplicación El contenido generado por IA puede ser incorrecto." />
+
+Editamos la opcion de “prohibir el acceso a configuración de PC y
+Panel de Control”
+
+<img src="./media/image9.png" style="width:5.2403in;height:2.776in" />
+
+Habilitamos y aplicamos
+
+<img src="./media/image10.png" style="width:3.49785in;height:3.336in" />
 
 2.  Acceder al símbolo del sistema
 
-> Vamos a sistema y a la opción de “impedir acceso al símbolo del
-> sistema” y editamos
->
-> <img src="./media/image11.png"
-> style="width:4.5974in;height:2.57757in" />
->
-> Habilitamos y aplicamos
->
-> <img src="./media/image12.png"
-> style="width:2.59703in;height:2.43472in" />
+Vamos a sistema y a la opción de “impedir acceso al símbolo del
+sistema” y editamos
+
+<img src="./media/image11.png"
+style="width:4.5974in;height:2.57757in" />
+
+Habilitamos y aplicamos
+
+<img src="./media/image12.png"
+style="width:2.59703in;height:2.43472in" />
 
 3.  Cambiar el fondo de pantalla
 
-> Desde personalización elegimos la opción “impedir cambiar el protector
-> de pantalla” y editamos
->
-> <img src="./media/image13.png"
-> style="width:4.56938in;height:2.54545in" />
->
-> Habilitamos y aplicamos
->
-> <img src="./media/image14.png"
-> style="width:2.98701in;height:2.80413in" />
+Desde personalización elegimos la opción “impedir cambiar el protector
+de pantalla” y editamos
+
+<img src="./media/image13.png"
+style="width:4.56938in;height:2.54545in" />
+
+Habilitamos y aplicamos
+
+<img src="./media/image14.png"
+ style="width:2.98701in;height:2.80413in" />
 
 4.  Busca otras directivas y aplícalas.
 
-> Se elige impedir la instalación y desinstalación de programas
->
-> Vamos a “panel de control” y editar “quitar agregar o quitar
-> programas” y lo habilitamos
->
-> <img src="./media/image15.png"
-> style="width:4.28044in;height:2.40909in" />
->
-> <img src="./media/image16.png"
-> style="width:2.77922in;height:2.57467in" />
+Se elige impedir la instalación y desinstalación de programas
+
+Vamos a “panel de control” y editar “quitar agregar o quitar
+ programas” y lo habilitamos
+
+<img src="./media/image15.png"
+ style="width:4.28044in;height:2.40909in" />
+
+ <img src="./media/image16.png"
+ style="width:2.77922in;height:2.57467in" />
 
 Ahora, hay que asignar las políticas a los usuarios. Desde la
 administración de directivas de grupo y vinculamos la GPO que creamos
