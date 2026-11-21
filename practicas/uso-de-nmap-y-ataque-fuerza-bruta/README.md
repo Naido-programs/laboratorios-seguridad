@@ -121,7 +121,7 @@ Utilizando el comando “nmap 10.0.19.128/24” escaneamos la red para ver todos
 
 IP por atacar **10.0.19.139**
 
-**usando el comando “nmap --script ssh-brute 10.0.139”**
+**usando el comando “nmap --script ssh-brute 10.0.19.139”**
 
 <img src="./media/image7.png" style="width:3.82836in;height:4.33847in" />
 
