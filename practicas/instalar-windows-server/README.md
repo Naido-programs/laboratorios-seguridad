@@ -1,3 +1,5 @@
+# Instalar Windows Server
+
 Iniciamos la maquina de virtualBox e iniciamos la instalación
 
 <img src="./media/image1.png"
