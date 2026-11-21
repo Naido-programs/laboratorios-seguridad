@@ -1,4 +1,4 @@
-# Aplicar directivas al grupo del dominio
+# Directivas de grupo (GPO) para restringir usuarios
 
 Restringir a los usuarios del grupo informática lo siguiente:
 
