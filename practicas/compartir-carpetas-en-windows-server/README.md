@@ -1,4 +1,4 @@
-# Compartir carpetas en Windows Server
+# Recursos compartidos y carpetas privadas en Windows Server
 
 En Windows Server 2019, se pide:
 
