@@ -1,4 +1,4 @@
-# Uso de Armitage
+# Explotación de vulnerabilidades con Armitage en Kali Linux
 
 Instalamos Armitage en Kali Linux usando la terminal con el comando
 “sudo apt install armitage”
