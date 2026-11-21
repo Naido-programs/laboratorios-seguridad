@@ -1,4 +1,4 @@
-# Uso de Nmap y Ataque de fuerza bruta
+# Escaneo de red con Nmap y fuerza bruta a FTP/SSH
 
 1.  Enumera los hosts, los puertos y servicios que aparecen en la red.
 
