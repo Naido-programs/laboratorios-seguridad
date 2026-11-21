@@ -1,4 +1,4 @@
-# Uso de Angry IP Scanner
+# Escaneo de equipos y puertos con Angry IP Scanner
 
 **Abrimos el terminal verificamos nuestra IP y ejecutamos el comando
 “IPSCAN”**
